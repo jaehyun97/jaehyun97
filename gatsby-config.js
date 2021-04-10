@@ -84,7 +84,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#4470ff`,
         display: `minimal-ui`,
-        icon: `content/assets/wdever-icon.png`,
+        icon: `content/assets/ME.JPG`,
       },
     },
     `gatsby-plugin-react-helmet`,
