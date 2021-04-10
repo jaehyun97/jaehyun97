@@ -12,7 +12,7 @@ module.exports = {
       eMail: 'us0410636@gmail.com',
       gitHub: 'github.com/jaehyun97',
       blog: 'jaehyun97blog.vercel.app',
-      buyMeACoffee: '',
+      //buyMeACoffee: '',
     },
   },
   plugins: [
