@@ -12,13 +12,13 @@ tags: ['#About', '#Resume']
 
 
 2016 ~ 2020: B.S., Human Factors Engineering & Computer Science Engineering, UNIST, Ulsan
-
+<br/><br/>
 
 
 
 ## 📄 Publications
 ... ASAP
-
+<br/><br/>
 
 
 
@@ -32,7 +32,7 @@ tags: ['#About', '#Resume']
 
 #### 라이프케어융합서비스개발(2018-2020)
 뇌파 기반 사회적 인지 기능 평가 도구 개발 및 임상 적용을 위한 정교화
-
+<br/><br/>
 
 
 
