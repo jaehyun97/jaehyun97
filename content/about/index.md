@@ -7,20 +7,24 @@ tags: ['#About', '#Resume']
 
 안녕하세요. 현재 울산과학기술원(UNIST) Biomedical Engineering, [BCI Lab](https://bci.unist.ac.kr/)에서 석사 과정을 밟고있습니다. 
 
-## Education
+## 🖋 Education
 2020 ~ present: M.S program in Human Factors Engineering at UNIST, Ulsan
 
 
 2016 ~ 2020: B.S., Human Factors Engineering & Computer Science Engineering, UNIST, Ulsan
 
 
-## Publications
+
+
+## 📄 Publications
 ... ASAP
 
 
 
 
-## Research Projects
+
+
+## 🚧 Research Projects
 
 ### 뇌질환극복사업(2020- )
 
@@ -34,7 +38,9 @@ tags: ['#About', '#Resume']
 
 
 
-## Skills
+
+
+## 🖥 Skills
 ### Programming Language
 - C++
 - Matlab
