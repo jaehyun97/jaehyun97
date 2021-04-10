@@ -26,12 +26,12 @@ tags: ['#About', '#Resume']
 
 ## 🚧 Research Projects
 
-### 뇌질환극복사업(2020- )
+#### 뇌질환극복사업(2020- )
 
 **영유아 고위험군 선별과 소아-청소년-성인 발달장애 진단 및 감별진단을 위한 뇌파 기반 통합지표개발**
 
 
-### 라이프케어융합서비스개발(2018-2020)
+#### 라이프케어융합서비스개발(2018-2020)
 
 **뇌파 기반 사회적 인지 기능 평가 도구 개발 및 임상 적용을 위한 정교화**
 
@@ -41,13 +41,13 @@ tags: ['#About', '#Resume']
 
 
 ## 🖥 Skills
-### Programming Language
+#### Programming Language
 - C++
 - Matlab
 - Python
 - R
 
-### Creative Software
+#### Creative Software
 - Adobe Indesign
 - Adobe Illustrator
 - Adobe Lightroom
